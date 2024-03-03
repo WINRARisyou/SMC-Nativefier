@@ -1,7 +1,7 @@
 # SMC-Nativefier
 Tutorial on how to run Super Mario Construct as an app using Nativefier
 
-This guide assumes you have admin rights on your PC, so if something doesn't work, that's probably why.
+This guide assumes you have admin rights on your WINDOWS PC, so if something doesn't work, that's probably why.
 
 First, watch [this tutorial](https://www.youtube.com/watch?v=_Ob56Twu7DM) (any tutorial will probably work really) on how to install nodejs, and ensure that you install npm along with it (there should be a button in the installer for it).
 
